@@ -12,10 +12,10 @@ const projectList = [
     code: "https://github.com/H1baq/my-portfolio",
   },
   {
-    title: "Poster Design Kit",
-    description: "A creative pack of social media posters built with Canva and Figma.",
+    title: "School website",
+    description: "A modern school website built with responsive design ",
     image: project1Img,
-    demo: "https://demo.com",
+    demo: "",
     code: "https://github.com/H1baq/Edu_Link",
   },
 ];
