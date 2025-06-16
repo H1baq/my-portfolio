@@ -15,7 +15,7 @@ const projectList = [
     title: "Poster Design Kit",
     description: "A creative pack of social media posters built with Canva and Figma.",
     image: project1Img,
-    demo: "https://your-demo-link.com",
+    demo: "https://hibaq-portfolio-rlhf.vercel.app/",
     code: "https://github.com/H1baq/Edu_Link",
   },
 ];
