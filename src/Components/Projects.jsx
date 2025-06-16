@@ -8,14 +8,14 @@ const projectList = [
     title: "Portfolio Website",
     description: "A minimal React + Vite portfolio with soft design aesthetics.",
     image: project2Img,
-    demo: "https://your-demo-link.com",
-    code: "https://github.com/yourname/portfolio-site",
+    demo: "https://my-portfolio-blush-seven-53.vercel.app/",
+    code: "https://github.com/H1baq/my-portfolio",
   },
   {
     title: "Poster Design Kit",
     description: "A creative pack of social media posters built with Canva and Figma.",
     image: project1Img,
-    demo: "https://hibaq-portfolio-rlhf.vercel.app/",
+    demo: "https://demo.com",
     code: "https://github.com/H1baq/Edu_Link",
   },
 ];
