@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import './Contact.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const Contact = () => {
   const [success, setSuccess] = useState(false);
@@ -11,10 +14,24 @@ const Contact = () => {
           <h2>Let's Connect</h2>
           <p><strong>Phone Number:</strong> +254 703681211</p>
           <p><strong>Location:</strong> Nairobi, Kenya</p>
-          <ul>
-            <li><a href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">LinkedIn</a></li>
-            <li><a href="https://github.com/H1baq" target="_blank" rel="noreferrer">GitHub</a></li>
-          </ul>
+         <ul className="contact-icons">
+  <li>
+    <a href="tel:+254703681211" target="_blank" rel="noreferrer">
+      <FontAwesomeIcon icon={faPhoneAlt} /> +254 703681211
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">
+      <FontAwesomeIcon icon={faLinkedin} /> LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/H1baq" target="_blank" rel="noreferrer">
+      <FontAwesomeIcon icon={faGithub} /> GitHub
+    </a>
+  </li>
+</ul>
+
         </div>
 
         <form 
