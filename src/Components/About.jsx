@@ -15,7 +15,7 @@ const About = () => {
               <p>
                 We blend design thinking with development craft building cohesive brand identities, digital assets, and websites that tell your story and move your audience.              </p>
               <p>
-                Whether you're launching your first brand or redesigning your digital space, we collaborate to create work that's both beautiful and functional — rooted in authenticity, and built to last.
+                Whether you're launching your first brand or redesigning your digital space, we collaborate to create work that's both beautiful and functional rooted in authenticity, and built to last.
 
               </p>
             </div>

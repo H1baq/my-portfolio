@@ -21,7 +21,7 @@ const Contact = () => {
     </a>
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/hibaq-adan-98bb86363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
       <FontAwesomeIcon icon={faLinkedin} /> LinkedIn
     </a>
   </li>
