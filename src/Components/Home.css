@@ -20,13 +20,13 @@
   font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  color: #f8f0f0;
+  color: white;
 }
 
 .hero p {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #f7ebeb;
+  color: white;
   margin-bottom: 2rem;
   line-height: 1.6;
 }
@@ -49,7 +49,7 @@
 .overlay {
   width: 100%;
   height: 100%;
-  background-color: rgba(95, 15, 15, 0.7); 
+  background-color: grey; 
   display: flex;
   align-items: center;
   justify-content: center;

@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: whitesmoke;
+  background-color: rgb(8, 5, 5);
   border-bottom: 1px solid #381919;
   position: sticky;
  
@@ -14,6 +14,7 @@
 .logo {
   font-size: 1.4rem;
   font-weight: bold;
+  color: #eee0e0;
 }
 
 .nav-links {
@@ -23,13 +24,13 @@
 
 .nav-links a {
   text-decoration: none;
-  color: #333;
+  color: #eee0e0;
   font-size: 1rem;
   transition: color 0.2s;
 }
 
 .nav-links a:hover {
-  color: #555;
+  color: #f8f0f0;
 }
 
 .hamburger {
@@ -37,6 +38,7 @@
   flex-direction: column;
   cursor: pointer;
   gap: 5px;
+  
 }
 
 .bar {
